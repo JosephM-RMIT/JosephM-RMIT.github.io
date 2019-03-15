@@ -1,10 +1,10 @@
 # My Personal Profile
 
 ### Personal Information:
-Name: Joseph Mirarchi
-Student No.#: s3375580
-Email: S3375580@student.rmit.edu.au
-Languages spoken: English, Italian, Japanese
+- Name: Joseph Mirarchi
+- Student No.#: s3375580
+- Email: S3375580@student.rmit.edu.au
+- Languages spoken: English, Italian, Japanese
 
 ### About Me:
 Recently, I just finished a contract with DXC (Formerly HPE & CSC) in a senior position to pursue a relevant university qualification within the realm of IT. I have been working in the Industry since I was 15 years old, as my father used to have me come into his business to support his staff and maintain the equipment.
