@@ -21,3 +21,15 @@ I have always had an interest in computers – even from a very young age. I wou
 I have chosen to study at RMIT University as I believe that pursuing additional tertiary qualifications will help develop myself both academically and professionally. Moreover, I have always wanted to be apart of the development of software applications. As the world moves towards a more technology assisted society, I personally believe that skills within the IT sphere will become more and more necessary. 
 What do you expect to learn during your studies?
 The ideal end-goal for my studies has changed quite a lot since it’s first inception quite a few months ago. I believe that as I progress through my studies it will allow me to develop a clear understanding of what the different areas of IT are and exact avenues I wish to pursue. At the current moment, I am hoping that by the end of my time here, I will be able to create/develop my own programs from scratch.
+
+
+
+
+
+
+
+
+
+
+
+[#***NEXT PAGE***](https://josephm-rmit.github.io/Idealjob.md)
