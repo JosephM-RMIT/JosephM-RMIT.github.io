@@ -25,4 +25,4 @@ The ideal end-goal for my studies has changed quite a lot since it’s first inc
 
 [***Job interests and Personal tests***](https://josephm-rmit.github.io/Job-interests-and-Personal-tests-/)
 
-[***Project Idea***]
+[***Project Idea***](https://josephm-rmit.github.io/Project-Idea/)
